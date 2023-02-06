@@ -1,7 +1,7 @@
 ## Hey 👋
 
 - I'm Frédéric DOURNEL, I am 20 years old and live in Calais.
-- I currently leaning computer science at the University Littoral Côté d'Opale in the 2nd year of BUT Informatique.
+- I currently leaning computer science at the University Littoral Côte d'Opale in the 2nd year of computer scientist bachelor.
 
 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="linkedin" width="32" height="32"/>
@@ -19,6 +19,17 @@
 
 | <img src="https://github-readme-stats.vercel.app/api?username=fredericdrnl&show_icons=true&theme=buefy" alt="fredericdrnl" />  | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fredericdrnl&layout=compact&hide=html&theme=buefy" alt="fredericdrnl" /> |
 | ------------- | ------------- |
+
+## How to contact me 💬
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/fr%C3%A9d%C3%A9ric-dournel-a64292256/">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="linkedin" width="32" height="32"/>
+  </a>
+  <a>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/discord/discord-original.svg" alt="discord" width="32" height="32"/>
+  </a>
+</p>
 
 <img src="https://visitor-badge.glitch.me/badge?page_id=fredericdrnl.fredericdrnl">
 
