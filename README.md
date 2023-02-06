@@ -1,5 +1,11 @@
 ## Hey 👋
 
+- I'm Frédéric DOURNEL, I am 20 years old and live in Calais.
+- I currently leaning computer science at the University Littoral Côté d'Opale in the 2nd year of BUT Informatique.
+
+
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="linkedin" width="32" height="32"/>
+
 ## I work with 🛠
 
 <p align="left">
