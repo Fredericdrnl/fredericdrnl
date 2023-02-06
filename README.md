@@ -13,10 +13,6 @@
   <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="32" height="32"/>
 </p>
 
-
-
-## Some stats 📊
-
 | <img src="https://github-readme-stats.vercel.app/api?username=fredericdrnl&show_icons=true&theme=buefy" alt="fredericdrnl" />  | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fredericdrnl&layout=compact&hide=html&theme=buefy" alt="fredericdrnl" /> |
 | ------------- | ------------- |
 
