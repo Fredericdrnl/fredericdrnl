@@ -5,16 +5,10 @@
 
 ## I work with 🛠
 
-### Languages
-
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="50" height="50"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="50" height="50"/>
-</p>
-
-### Apps
-
-<p align="left">
+  |
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="git" width="32" height="32"/>
   <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="32" height="32"/>
 </p>
@@ -26,7 +20,7 @@
 | <img src="https://github-readme-stats.vercel.app/api?username=fredericdrnl&show_icons=true&theme=buefy" alt="fredericdrnl" />  | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fredericdrnl&layout=compact&hide=html&theme=buefy" alt="fredericdrnl" /> |
 | ------------- | ------------- |
 
-## How to contact me 💬
+### Contact me 💬
 
 <p align="left">
   <a href="https://www.linkedin.com/in/fr%C3%A9d%C3%A9ric-dournel-a64292256/">
