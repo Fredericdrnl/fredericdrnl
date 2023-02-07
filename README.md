@@ -45,8 +45,9 @@
 ### Contact me 💬
 
 <p align="left">
+  look my
   <a href="https://www.linkedin.com/in/fr%C3%A9d%C3%A9ric-dournel-a64292256/">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="linkedin" width="32" height="32"/>
+    linkedin
   </a>
 </p>
 
