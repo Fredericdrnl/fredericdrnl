@@ -3,13 +3,16 @@
 - I'm Frédéric DOURNEL, I am 20 years old and live in Calais.
 - I currently leaning computer science at the University Littoral Côte d'Opale in the 2nd year of computer scientist bachelor.
 
+- 🔭 I’m currently working on blokus game project
+- 🌱 I’m currently learning to create discord bot
+
 ## I work with 🛠
 
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="50" height="50"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="git" width="50" height="50"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="postgresql" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="git" width="50" height="50"/>
   <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="50" height="50"/>
 </p>
 
