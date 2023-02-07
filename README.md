@@ -1,7 +1,7 @@
 ## Hey 👋
 
-- I'm Frédéric DOURNEL, I am 20 years old and live in Calais.
-- I currently leaning computer science at the University Littoral Côte d'Opale in the 2nd year of computer scientist bachelor.
+- **I'm Frédéric DOURNEL, I am 20 years old and live in Calais.**
+- **I currently leaning computer science at the University Littoral Côte d'Opale in the 2nd year of computer scientist bachelor.**
 
 - 🔭 I’m currently working on blokus game project
 - 🌱 I’m currently learning to create discord bot
