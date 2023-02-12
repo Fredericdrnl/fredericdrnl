@@ -3,6 +3,14 @@
 - 🔭 At the moment, I'm working on blokus game project
 - 🌱 I’m currently learning to create discord bot
 
+<div align="center">
+  
+  <img src="/github-metrics.svg" alt="Metrics">
+  <br>
+  <img src="/metrics.plugin.people.followers.svg" alt="Followers">
+  <br>
+</div>
+
 ## I work with 🛠
 
 <p align="left">
