@@ -34,14 +34,9 @@
     <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="32" height="32"/>
   </a>
 </p>
-
-<p align="center">
   
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fredericdrnl&layout=compact&theme=dark#gh-dark-mode-only&card_width=854)](https://github.com/anuraghazra/github-readme-stats)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fredericdrnl&layout=compact&theme=dark#gh-dark-mode-only&card_width=854)](https://github.com/anuraghazra/github-readme-stats) | [![Stats github](https://github-readme-stats.vercel.app/api?username=fredericdrnl&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
 
-  [![Stats github](https://github-readme-stats.vercel.app/api?username=fredericdrnl&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
-
-</p>  
   
 ## Contact me 💬
 
