@@ -35,13 +35,13 @@
   </a>
 </p>
 
-<div align="center">
+<p align="center">
   
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fredericdrnl&layout=compact&theme=dark#gh-dark-mode-only&card_width=854)](https://github.com/anuraghazra/github-readme-stats)
 
   [![Stats github](https://github-readme-stats.vercel.app/api?username=fredericdrnl&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
 
-</div>  
+</p>  
   
 ## Contact me 💬
 
