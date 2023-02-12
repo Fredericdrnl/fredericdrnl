@@ -36,6 +36,7 @@
 </p>
 
 <div align="center">
+  
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fredericdrnl&layout=compact&theme=dark#gh-dark-mode-only&card_width=854)](https://github.com/anuraghazra/github-readme-stats)
   
   <br>
