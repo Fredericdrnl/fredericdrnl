@@ -44,11 +44,17 @@
 ## Contact me 💬
 
 <p align="left">
-  look my
+  - look my
   <a href="https://www.linkedin.com/in/fr%C3%A9d%C3%A9ric-dournel-a64292256/">
     linkedin
   </a>
 </p>
+
+<p align="left">
+  - My Email : fredericdournel@gmail.com
+</p>
+
+
 
 <img src="https://visitor-badge.glitch.me/badge?page_id=fredericdrnl.fredericdrnl">
 
