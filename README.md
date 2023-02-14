@@ -9,7 +9,7 @@
   <a href="https://www.python.org/">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="32" height="32"/>
   </a>
-  <a href="https://www.java.com/fr/">
+  <a href="https://www.java.com">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="32" height="32"/>
   </a>
   <a href="https://fr.wikipedia.org/wiki/Hypertext_Markup_Language">
@@ -26,6 +26,9 @@
   </a>
   <a href="https://www.postgresql.org/">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="postgresql" width="32" height="32"/>
+  </a>
+ <a href="https://www.mysql.com">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="mysql" width="32" height="32"/>
   </a>
   <a href="https://github.com/">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="git" width="32" height="32"/>
