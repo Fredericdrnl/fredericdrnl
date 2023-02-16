@@ -44,7 +44,7 @@
 ## Contact me 💬
 
 <p align="left">
-  - look my
+  - Look my
   <a href="https://www.linkedin.com/in/fr%C3%A9d%C3%A9ric-dournel-a64292256/">
     linkedin
   </a>
