@@ -21,7 +21,7 @@
   <a href="https://www.javascript.com/">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="32" height="32"/>
   </a>
-  <a href="https://www.javascript.com/">
+  <a href="[https://www.javascript.com/](https://nodejs.org/en/)">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width="32" height="32"/>
   </a>
   <a href="https://www.postgresql.org/">
