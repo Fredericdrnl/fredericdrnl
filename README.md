@@ -9,7 +9,7 @@
   <a href="https://www.python.org/">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="32" height="32"/>
   </a>
-  <a href="https://www.java.com">
+  <a href="https://www.java.com/en/">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="32" height="32"/>
   </a>
   <a href="https://fr.wikipedia.org/wiki/Hypertext_Markup_Language">
