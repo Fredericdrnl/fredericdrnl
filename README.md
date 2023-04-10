@@ -38,7 +38,9 @@
   </a>
 </p>
 
-[![Stats github](https://github-readme-stats.vercel.app/api?username=fredericdrnl&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
+| [![Stats github](https://github-readme-stats.vercel.app/api?username=fredericdrnl&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Fredericdrnl&langs_count=8&theme=react)</a> |
+| ------------- | ------------- |
+
   
 ## Contact me 💬
 
