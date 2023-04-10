@@ -39,10 +39,6 @@
 </p>
 
 [![Stats github](https://github-readme-stats.vercel.app/api?username=fredericdrnl&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
-
-| <img src="https://github-readme-stats.vercel.app/api?username=Fredericdrnl&show_icons=true&theme=buefy" alt="flexbox" />  | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fredericdrnl&layout=compact&hide=html&theme=buefy" alt="flexbox" /> |
-| ------------- | ------------- |
-
   
 ## Contact me 💬
 
